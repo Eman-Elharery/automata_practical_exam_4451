@@ -22,6 +22,6 @@ g++ task3_Turing_Machine.cpp -o task3
 ```
 
 // testing
-use the vector that called "test_cases" in each code or file "tests"
+use the function that called "testing" in each code 
 
 ---------------------------------------------------------------------
