@@ -50,7 +50,7 @@ for(int i=0;i<test_cases.size();i++)
 {
     cout<<"Input : "<< test_cases[i].first<<endl;
     cout<<"Excepted Output : "<<test_cases[i].second<<endl;
-    cout<<"Excepted Output : ";
+    cout<<"Actual Output : ";
     if(accepted(test_cases[i].first))
      cout<<"Accepted"<<endl;
       else
